@@ -1,0 +1,29 @@
+# Cordel Moderno - README
+
+Este é o código-fonte de uma página HTML que exibe um cordel moderno escrito por Milton Duarte. O cordel é uma forma tradicional de poesia popular brasileira, normalmente escrito em versos rimados e com temáticas variadas.
+
+## Conteúdo do Arquivo
+
+O arquivo HTML contém a estrutura básica de uma página web, com as seguintes seções:
+
+1. **Cabeçalho (header):** Apresenta o título "Cordel Moderno" e a autoria do cordel, com um link para o perfil do autor no site "Recanto das Letras".
+2. **Seção Normal:** Contém dois parágrafos com versos do cordel, abordando a frustração com a tecnologia moderna e a simplificação da comunicação.
+3. **Seção de Imagem (imagem id="img01"):** Inclui um parágrafo com versos que refletem sobre as abreviações comuns nas mensagens e a forma simplificada de expressar o amor.
+4. **Seção Normal:** Apresenta dois parágrafos adicionais com versos que mencionam o uso do "@" como parte de endereços de e-mail e a proliferação de emojis e símbolos.
+5. **Seção de Imagem (imagem id="img02"):** Contém um parágrafo com versos que destacam a saudade das cartas escritas à mão.
+6. **Seção Normal:** Inclui dois parágrafos finais que refletem sobre a comunicação instantânea e o papel da tecnologia, seguidos por uma reflexão sobre a oração e a presença divina.
+7. **Rodapé (footer):** Exibe informações sobre o criador do site, Felipe Ern, e o link para o site "CursoemVideo".
+
+## Estilização
+
+A página utiliza uma folha de estilo externa, "style.css", que não está presente no código fornecido. Presume-se que essa folha de estilo define as regras de estilo para os elementos presentes na página HTML.
+
+## Finalidade
+
+O objetivo dessa página HTML é apresentar o cordel moderno de Milton Duarte, abordando as mudanças na comunicação com o advento da tecnologia. O uso de elementos visuais, como as seções de imagem, e recursos de hipertexto, como os links, adicionam dinamismo e interatividade ao texto.
+
+## Autoria
+
+Este código HTML foi criado por Felipe Ern para o CursoemVideo. O autor original do cordel é Milton Duarte, cujo trabalho pode ser encontrado no site "Recanto das Letras".
+
+Por favor, note que este README foi criado com base na análise do código-fonte fornecido, e informações adicionais podem estar presentes na folha de estilo ou em outros arquivos relacionados não fornecidos.
